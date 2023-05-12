@@ -1,4 +1,5 @@
-(modify)
+(modify case 2)
 This is the first line in github
 Hi Everyone i'm text
+This is Third Text and i'm text
 Bye~
