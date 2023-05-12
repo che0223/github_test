@@ -1,4 +1,4 @@
-(modify case 2)
+(modify case 2 i;m owner)
 This is the first line in github
 Hi Everyone i'm text
 This is Third Text and i'm text
